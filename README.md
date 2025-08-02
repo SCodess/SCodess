@@ -1,7 +1,7 @@
 <!-- profile header -->
 # Hi, I’m @SCodess 👋
 
-**Full-Stack Web Developer** | **Open-Source Enthusiast**
+**Front-End Web Developer** | **Open-Source Enthusiast**
 
 ---
 
@@ -18,11 +18,38 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" alt="JS"/><br>JavaScript</td>
-    <td align="center"><img src="https://img.shields.io/badge/React-16.13.1-61DAFB?logo=react&logoColor=black" alt="React"/><br>React</td>
-    <td align="center"><img src="https://img.shields.io/badge/Node.js-14.x-339933?logo=node.js&logoColor=white" alt="Node"/><br>Node.js</td>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white" alt="Python"/><br>Python</td>
-    <td align="center"><img src="https://img.shields.io/badge/Django-3.x-092E20?logo=django&logoColor=white" alt="Django"/><br>Django</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/><br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-17.x-61DAFB?logo=react&logoColor=black" alt="React"/><br>React
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-4.x-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/><br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind"/><br>Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Sass-1.x-CC6699?logo=sass&logoColor=white" alt="Sass"/><br>Sass
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js&logoColor=white" alt="Vue"/><br>Vue.js
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-12.x-000000?logo=next.js&logoColor=white" alt="Next.js"/><br>Next.js
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-2.x-F05032?logo=git&logoColor=white" alt="Git"/><br>Git
+    </td>
   </tr>
 </table>
 
